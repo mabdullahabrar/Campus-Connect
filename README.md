@@ -321,6 +321,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 BS Computer Science  
 Bahria University Islamabad
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/mabdullahabrar
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mabdullahabrar/)
