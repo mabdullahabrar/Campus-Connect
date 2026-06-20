@@ -4,7 +4,7 @@
 
 Campus Connect is a cross-platform mobile application developed as a semester project for the **Mobile Application Development (MAD)** course at Bahria University Islamabad. The application centralizes essential academic and campus services into a single platform, reducing the need for multiple applications.
 
-The app features secure authentication, real-time communication, task management, academic resources, GPA calculation, campus events, and LMS integration through a clean, modern user interface.
+The app features a secure authentication, real-time communication, task management, academic resources, GPA calculation, campus events, and LMS integration through a clean, modern user interface.
 
 ---
 
