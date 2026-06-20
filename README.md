@@ -10,8 +10,6 @@ The app features secure authentication, real-time communication, task management
 
 ## 📱 Screenshots
 
-> Add your screenshots below.
-
 | Login | Home | Chat |
 |-------|------|------|
 | ![](screenshots/login.png) | ![](screenshots/home.png) | ![](screenshots/chat.png) |
