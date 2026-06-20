@@ -1,0 +1,50 @@
+name: campus_connect
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # --- Firebase Core 3.x Synchronized Suite ---
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  cloud_firestore: ^5.0.2
+  firebase_messaging: ^15.0.3
+  firebase_storage: ^12.1.0        # FIXED: Updated to match Core 3.x
+
+  # --- Mapping & Location ---
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+
+  # --- Utilities & Media ---
+  url_launcher: ^6.3.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  image_picker: ^1.1.2             # UPDATED: For better Web/Chrome support
+
+  # --- Specialized Views ---
+  flutter_inappwebview: ^6.0.0
+  flutter_local_notifications: ^17.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/logo.png"
+  web:
+    generate: true
+    image_path: "assets/logo/logo.png"
