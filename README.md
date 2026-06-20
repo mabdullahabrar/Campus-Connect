@@ -323,4 +323,4 @@ Bahria University Islamabad
 
 GitHub: https://github.com/mabdullahabrar
 
-LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mabdullahabrar/)
+LinkedIn: [https://linkedin.com/in/mabdullahabrar](https://www.linkedin.com/in/mabdullahabrar/)
